@@ -1,0 +1,6 @@
+Html
+Css
+Vanila Js 
+React Js
+Node Js
+Mongo DB

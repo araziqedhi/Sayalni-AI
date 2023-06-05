@@ -1,0 +1,7 @@
+There are 4 pillars of Object Oriented Programming
+1) Inheritence (jo child ko parent se mile)
+2) Polymorphism (jo 2 ya 2 se ziada cheeze perform kare)
+ i) Overloading(ek hi class me ek function 1 baar se ziada banai)        ii)OverRidding (parent and child class me function 1 baar se ziada)
+3) Incapsulation (pvt krde only avaialble within a class outside class no one can access that) 
+ i) Setter  ii) Getter 
+4)Abstraction (Essi class jiska direct object na dekha ho ) ( Inheritence wagera sb hogi lekin direct object nh bnskta)
